@@ -6,6 +6,8 @@ Simple React app that allows users to search for GIFs by topic. Gifs populated t
 
 Testing text.
 
+Another test from different account. 
+
 ## Instructions
 
 1. Download project files.
