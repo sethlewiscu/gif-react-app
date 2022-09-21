@@ -8,6 +8,8 @@ Testing text.
 
 Another test from different account. 
 
+Testing Automation
+
 ## Instructions
 
 1. Download project files.
